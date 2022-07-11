@@ -1,6 +1,3 @@
 hello how are you
 adding 2nd line
-im adding the 3rd line
-monday 11 july
-devops class
-
+adding 3 rd line into existing one
